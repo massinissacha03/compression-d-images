@@ -1,7 +1,7 @@
 # 🧠 Projet C - Traitement et Codage d'Images
 
 > Réalisé dans le cadre du cours de Programmation C – Université Gustave Eiffel\
-> \*\***Auteur** : Massinissa\
+> \*\***Auteur** : Massinissa CHABANE - Boualem CHIBANE\
 > \*\***Année** : 2024
 
 ---
