@@ -1,4 +1,4 @@
-# 🧠 Projet C - Traitement et Codage d'Images
+#  Projet C - Traitement et Codage d'Images
 
 > Réalisé dans le cadre du cours de Programmation C – Université Gustave Eiffel\
 > \*\***Auteur** : Massinissa CHABANE\
@@ -78,7 +78,7 @@ L3.2024.ProgC-Massinissa/
 
 ---
 
-## 🧪 Fonctionnalités principales
+##  Fonctionnalités principales
 
 - **Construction de Quadtree** : Décomposition récursive de l’image en quatre sous-régions.
 - **Codage QTC** : Compression binaire compacte basée sur la structure du Quadtree.
